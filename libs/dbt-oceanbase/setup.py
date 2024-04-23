@@ -44,7 +44,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="OceanBase Developer Center",
-    author_email="yh263208@oceanbase.com",
+    author_email="odcsupport@service.alipay.com",
     url="https://github.com/oceanbase/odc/tree/main/libs/dbt-oceanbase",
     packages=find_namespace_packages(include=["dbt", "dbt.*"]),
     include_package_data=True,
